@@ -1,4 +1,4 @@
-# NLP: Defamation in the U.S. 2016 Presidental Election
+# NLP Project: Defamation in the U.S. 2016 Presidental Election
 
 Introduction to the project:
 
