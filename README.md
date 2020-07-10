@@ -10,4 +10,10 @@ We first used MALLET (MAchineLearning for LanguagE Toolkit) by \cite{McCallumMAL
 
 This repo is structured as follows: 
 
+1. Data pre-processing in NLP_PreProcessing_US2016election.ipynb
+
+2. Data exploration in 
+
+3. Results in 
+
 
