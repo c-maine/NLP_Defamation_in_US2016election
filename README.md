@@ -12,7 +12,7 @@ This repo is structured as follows:
 
 1. Data pre-processing in NLP_PreProcessing_US2016election.ipynb
 
-2. Data exploration in 
+2. Data exploration, results and visuals in visuals_US2016election.ipynb
 
 3. Topic identification using the LDA Mallet model in LDAMallet_US2016election.ipynb
 
