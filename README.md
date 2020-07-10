@@ -14,6 +14,6 @@ This repo is structured as follows:
 
 2. Data exploration in 
 
-3. Results in 
+3. Topic identification using the LDA Mallet model in LDAMallet_US2016election.ipynb
 
 
