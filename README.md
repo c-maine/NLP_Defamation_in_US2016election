@@ -22,6 +22,6 @@ Full results are available in the [visuals notebook](https://github.com/c-maine/
 
 An example graph showing the most common tweets in the 2016 Presidential election is added below.
 
-![alt text](https://github.com/c-maine/NLP_Defamation_in_US2016election/blob/master/visuals_US2016election.ipynb)
+![alt text](https://github.com/c-maine/NLP_Defamation_in_US2016election/blob/master/hashtags.png)
 
 
