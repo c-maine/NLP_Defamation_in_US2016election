@@ -16,4 +16,12 @@ We first used MALLET (MAchineLearning for LanguagE Toolkit) by \cite{McCallumMAL
 
 - Topic identification using the LDA Mallet model in [LDAMallet_US2016election.ipynb](https://github.com/c-maine/NLP_Defamation_in_US2016election/blob/master/LDAMallet_US2016election.ipynb)
 
+**Results** 
+
+Full results are available in the [visuals notebook](https://github.com/c-maine/NLP_Defamation_in_US2016election/blob/master/visuals_US2016election.ipynb).
+
+An example graph showing the most common tweets in the 2016 Presidential election is added below.
+
+![alt text](https://github.com/c-maine/NLP_Defamation_in_US2016election/blob/master/visuals_US2016election.ipynb)
+
 
