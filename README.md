@@ -10,10 +10,10 @@ We first used MALLET (MAchineLearning for LanguagE Toolkit) by \cite{McCallumMAL
 
 This repo is structured as follows: 
 
-1. Data pre-processing in NLP_PreProcessing_US2016election.ipynb
+1. Data pre-processing in [NLP_PreProcessing_US2016election.ipynb](https://github.com/c-maine/NLP_Defamation_in_US2016election/blob/master/NLPPreprocessing_US2016election.ipynb)
 
-2. Data exploration, results and visuals in visuals_US2016election.ipynb
+2. Data exploration, results and visuals in [visuals_US2016election.ipynb](https://github.com/c-maine/NLP_Defamation_in_US2016election/blob/master/visuals_US2016election.ipynb)
 
-3. Topic identification using the LDA Mallet model in LDAMallet_US2016election.ipynb
+3. Topic identification using the LDA Mallet model in [LDAMallet_US2016election.ipynb](https://github.com/c-maine/NLP_Defamation_in_US2016election/blob/master/LDAMallet_US2016election.ipynb)
 
 
